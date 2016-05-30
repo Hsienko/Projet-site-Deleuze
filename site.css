@@ -1,0 +1,184 @@
+@CHARSET "UTF-8";
+.site {
+	padding: 3px;
+	margin: 5px;
+}
+.texteGH {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small; 
+	color: #666666;
+	text-align: left;
+	vertical-align: top;
+	border-top: solid #CCCCCC;
+	border-right: none #CCCCCC;
+	border-bottom: none #CCCCCC;
+	border-left: none #CCCCCC;
+}
+.texteCentre {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small; 
+	color: #666666;
+	text-align: left;
+	vertical-align: top;
+	border-top: none;
+	border-right: solid #CCCCCC;
+	border-bottom: solid #CCCCCC;
+	border-left: solid #CCCCCC;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+.texteCentre A { 
+
+  font-size: xx-small; 
+  text-decoration: none;
+	color: #666666;
+}
+.texteCentre A:hover{ 
+  font-size: xx-small; 
+  text-decoration: none;
+	color: #FF0000;
+}
+.texteCentre UL{
+}
+
+.texteCentreB0 {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+	 font-size: x-small;
+	color: none;
+	text-align: left;
+	vertical-align: top;
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+.texteCentreB0 A {
+	font-size: small;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.texteCentreB0 A:hover{
+	font-size: small;
+	text-decoration: none;
+	color: #FF0000;
+}
+	
+
+.CarreHaut {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: #666666;
+	text-align: center;
+	vertical-align: middle;
+	border-top: none;
+	border-right: solid #CCCCCC;
+	border-bottom: dotted #FF0000;
+	border-left: solid #CCCCCC;
+	font-style: italic;
+	padding: 0px;
+	font-weight: bold;
+}
+.textearticle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #333333;
+	text-align: justify;
+	vertical-align: top;
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+	border-left: none #CCCCCC;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	white-space: normal;
+	font-weight: lighter;
+}
+
+.textearticleb0 {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: small;
+        color: #333333;
+        text-align: justify;
+        vertical-align: top;
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 0px;
+        padding-left: 10px;
+        white-space: normal;
+        font-weight: lighter;
+						
+}
+.textearticleb0 A {
+
+  font-size: xx-small;
+ text-decoration: none;
+  color: #666666;
+}
+.textearticleb0 A:hover{
+font-size: xx-small;
+text-decoration: none;
+color: #FF0000;
+}
+			
+
+.CarreInter {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small; 
+	color: #666666;
+	text-align: left;
+	vertical-align: top;
+	border-top: none;
+	border-right: none #CCCCCC;
+	border-bottom: none;
+	border-left: none #CCCCCC;
+	padding: 0px;
+}
+.CarreHautCentre {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small; 
+	color: #666666;
+	text-align: left;
+	vertical-align: top;
+	border-top: none;
+	border-right: none;
+	border-bottom: solid #CCCCCC;
+	border-left: none;
+	padding: 0px;
+}
+.texteBasGauche {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: x-small; 
+	color: #666666;
+	text-align: center;
+	vertical-align: top;
+	border-top: none;
+	border-right: none #CCCCCC;
+	border-bottom: none #CCCCCC;
+	border-left: none #CCCCCC;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	background-color: #FFCC33;
+	font-weight: normal;
+	font-style: italic;
+}
+.menu UL {
+	list-style-type: none;
+	list-style-image: none;
+}
+.menu_selected {
+	color: #A23313;
+}
